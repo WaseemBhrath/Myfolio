@@ -23,6 +23,10 @@ export default function Navbar() {
     <div className="container">
       <div className=''>
         <img className='h-[150px]' src={Logo} alt="" />
+        <h1>Mr Bhrath is here
+          <p>You are so cute and intelligent person in the world </p>
+          <p>Bhrath is also here</p>
+        </h1>
       </div>
       <div>
        <ul>
