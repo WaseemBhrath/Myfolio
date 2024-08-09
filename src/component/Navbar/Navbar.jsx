@@ -27,6 +27,11 @@ export default function Navbar() {
           <p>You are so cute and intelligent person in the world </p>
           <p>Bhrath is also here</p>
         </h1>
+        <ul>
+          <li>Waseem Bhrath is also here</li>
+          <li>Waseem Bhrath is also here</li>
+          <h1>Cn you Change here</h1>
+        </ul>
       </div>
       <div>
        <ul>
