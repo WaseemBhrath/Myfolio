@@ -25,6 +25,7 @@ export default function Navbar() {
         <img className='h-[150px]' src={Logo} alt="" />
         <h1>Mr Bhrath is here
           <p>You are so cute and intelligent person in the world </p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum accusamus culpa odio, sapiente ea velit?</p>
           <p>Bhrath is also here</p>
         </h1>
         <ul>
