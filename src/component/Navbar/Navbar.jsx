@@ -26,6 +26,7 @@ export default function Navbar() {
         <h1>Mr Bhrath is here
           <p>You are so cute and intelligent person in the world </p>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum accusamus culpa odio, sapiente ea velit?</p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi obcaecati sed natus quas. Esse, aspernatur. Illo voluptatum rerum architecto porro?</p>
           <p>Bhrath is also here</p>
         </h1>
         <ul>
